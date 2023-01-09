@@ -1,0 +1,135 @@
+/* .product-container{
+    width: 1300px;
+    border: 1px solid;
+}
+.header{
+    width: 100%;
+    height: 700px;
+    border: 1px solid;
+}
+.logo{
+    width: 30%;
+    height: 100%;
+}
+.navbar{
+    display: flex;
+    width: 100%;
+    height: 10%;
+    border: 1px solid;
+}
+.logo{
+    width: 30%;
+    height: 100%;
+    border: 1px solid;
+}
+.list{
+    width: 70%;
+    height: 100%;
+    border: 1px solid;
+}
+.menu{
+    display: none;
+}
+.hero{
+    width: 100%;
+    height: 90%;
+    border: 1px solid;
+    display: flex;
+}
+.h-text{
+    width: 50%;
+    height: 100%;
+    border: 1px solid;
+}
+.h-image{
+    width: 50%;
+    height: 100%;
+    border: 1px solid;
+}
+.built{
+    width: 100%;
+    height: 550px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+}
+.built-title{
+    flex: 1;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.built-list{
+    flex: 2.5;
+    border: 1px solid;
+}
+.b-list{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    justify-content: space-between;
+    margin-right: 40px;
+}
+.b-item{
+    flex: 1;
+    border: 1px solid;
+}
+.built-link{
+    flex: .5x;
+    border: 1px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 400px) {
+    .product-container{
+        width: 100%;
+    }
+    .list{
+        display: none;
+    }
+    .logo{
+        width: 70%;
+    }
+    .menu{
+        display: block;
+        width: 30%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 28px;
+    }
+    .hero{
+        flex-direction: column-reverse;
+    }
+    .h-text{
+        width: 100%;
+    }
+    .h-image{
+        width: 100%;
+    }
+    .built{
+        flex-direction: column;
+        height: 735px;
+    }
+    .b-list{
+        flex-direction: column;
+    }
+} */
